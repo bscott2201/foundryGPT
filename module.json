@@ -1,0 +1,17 @@
+{
+  "name": "foundryGPT",
+  "title": "Foundry OpenAI Chat",
+  "description": "A module to allow Foundry VTT users to interact with ChatGPT via OpenAI API.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/chat.css"],
+  "dependencies": [],
+  "manifest": "https://raw.githubusercontent.com/bscott2201/foundryGPT/main/module.json",
+  "download": "https://github.com/bscott2201/foundryGPT/releases/download/latest/foundryGPT.zip",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9.0",
+  "languages": [],
+  "url": "https://github.com/bscott2201/foundryGPT",
+  "readme": "https://github.com/bscott2201/foundryGPT/README.md"
+}

@@ -1,0 +1,21 @@
+.gpt-chat-container {
+  padding: 10px;
+}
+
+#gpt-chat-input {
+  width: 100%;
+  height: 80px;
+  padding: 5px;
+  font-size: 1rem;
+}
+
+#gpt-chat-output {
+  margin-top: 10px;
+  font-family: monospace;
+  background: #f4f4f4;
+  padding: 10px;
+  border-radius: 4px;
+  white-space: pre-wrap;
+  overflow-y: auto;
+  max-height: 300px;
+}
